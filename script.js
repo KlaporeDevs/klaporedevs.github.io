@@ -40,10 +40,9 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Fullstack Developer",
-        "Software Developer",
+        "Student",
+        "Java Developer",
         "Python Developer",
-        "Founder",
         "Cyber Security Beginners",
         "Green Hat Hacker"
       ],
@@ -54,8 +53,8 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Fullstack Developer",
-        "Software Developer",
+        "Student",
+        "Java Developer",
         "Python Developer",
         "Cyber Security Beginners",
         "Green Hat Hacker"
